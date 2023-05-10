@@ -1,7 +1,6 @@
-# Welcome to your CDK TypeScript project
+# Vanilla Webhook
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`ChatWebhookStack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
+Created with [aws-cdk](https://docs.aws.amazon.com/cdk/v2/guide/work-with-cdk-typescript.html)'s init command (`cdk init sample-app --language typescript`)
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
